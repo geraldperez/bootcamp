@@ -20,6 +20,8 @@ def rna(seq):
     else:
         return seq
 
+    print()
+
 
 def reverse_rna_complement(seq):
     """Convert a DNA sequence into its reverse complement as RNA"""
